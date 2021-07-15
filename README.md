@@ -1,5 +1,7 @@
 # Turbostress Reports
-A collection of power consumption measurements of AWS bare metal servers, performed using the [turbostress](https://github.com/teads/turbostress) tool
+A collection of power consumption measurements of AWS bare metal servers, performed using the [turbostress](https://github.com/teads/turbostress) tool.
+
+See this article [Estimating AWS EC2 Instances Power Consumption](https://medium.com/teads-engineering/estimating-aws-ec2-instances-power-consumption-c9745e347959) for more details.
 
 Each .csv file is named using the following convention:
 `Instance Name _ Date (Month/YY) _ AWS Region _ Loadstep Option _ Repeat Option`
