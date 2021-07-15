@@ -1,0 +1,2210 @@
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3856.616
+cache size	: 25344 KB
+physical id	: 0
+siblings	: 24
+core id		: 0
+cpu cores	: 12
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6800.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 1
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3625.320
+cache size	: 25344 KB
+physical id	: 0
+siblings	: 24
+core id		: 3
+cpu cores	: 12
+apicid		: 6
+initial apicid	: 6
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6800.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 2
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3748.152
+cache size	: 25344 KB
+physical id	: 0
+siblings	: 24
+core id		: 4
+cpu cores	: 12
+apicid		: 8
+initial apicid	: 8
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6800.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 3
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3695.130
+cache size	: 25344 KB
+physical id	: 0
+siblings	: 24
+core id		: 5
+cpu cores	: 12
+apicid		: 10
+initial apicid	: 10
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6800.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 4
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3946.016
+cache size	: 25344 KB
+physical id	: 0
+siblings	: 24
+core id		: 6
+cpu cores	: 12
+apicid		: 12
+initial apicid	: 12
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6800.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 5
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3306.035
+cache size	: 25344 KB
+physical id	: 0
+siblings	: 24
+core id		: 7
+cpu cores	: 12
+apicid		: 14
+initial apicid	: 14
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6800.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 6
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3644.655
+cache size	: 25344 KB
+physical id	: 0
+siblings	: 24
+core id		: 16
+cpu cores	: 12
+apicid		: 32
+initial apicid	: 32
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6800.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 7
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3867.527
+cache size	: 25344 KB
+physical id	: 0
+siblings	: 24
+core id		: 18
+cpu cores	: 12
+apicid		: 36
+initial apicid	: 36
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6800.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 8
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3965.923
+cache size	: 25344 KB
+physical id	: 0
+siblings	: 24
+core id		: 19
+cpu cores	: 12
+apicid		: 38
+initial apicid	: 38
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6800.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 9
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3113.124
+cache size	: 25344 KB
+physical id	: 0
+siblings	: 24
+core id		: 20
+cpu cores	: 12
+apicid		: 40
+initial apicid	: 40
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6800.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 10
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3566.949
+cache size	: 25344 KB
+physical id	: 0
+siblings	: 24
+core id		: 21
+cpu cores	: 12
+apicid		: 42
+initial apicid	: 42
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6800.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 11
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3525.735
+cache size	: 25344 KB
+physical id	: 0
+siblings	: 24
+core id		: 22
+cpu cores	: 12
+apicid		: 44
+initial apicid	: 44
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6800.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 12
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3944.710
+cache size	: 25344 KB
+physical id	: 1
+siblings	: 24
+core id		: 0
+cpu cores	: 12
+apicid		: 64
+initial apicid	: 64
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6802.26
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 13
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3999.179
+cache size	: 25344 KB
+physical id	: 1
+siblings	: 24
+core id		: 1
+cpu cores	: 12
+apicid		: 66
+initial apicid	: 66
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6802.26
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 14
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3913.626
+cache size	: 25344 KB
+physical id	: 1
+siblings	: 24
+core id		: 2
+cpu cores	: 12
+apicid		: 68
+initial apicid	: 68
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6802.26
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 15
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3938.757
+cache size	: 25344 KB
+physical id	: 1
+siblings	: 24
+core id		: 3
+cpu cores	: 12
+apicid		: 70
+initial apicid	: 70
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6802.26
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 16
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3965.102
+cache size	: 25344 KB
+physical id	: 1
+siblings	: 24
+core id		: 4
+cpu cores	: 12
+apicid		: 72
+initial apicid	: 72
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6802.26
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 17
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3997.965
+cache size	: 25344 KB
+physical id	: 1
+siblings	: 24
+core id		: 8
+cpu cores	: 12
+apicid		: 80
+initial apicid	: 80
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6802.26
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 18
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3855.948
+cache size	: 25344 KB
+physical id	: 1
+siblings	: 24
+core id		: 9
+cpu cores	: 12
+apicid		: 82
+initial apicid	: 82
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6802.26
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 19
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3956.796
+cache size	: 25344 KB
+physical id	: 1
+siblings	: 24
+core id		: 11
+cpu cores	: 12
+apicid		: 86
+initial apicid	: 86
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6802.26
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 20
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3926.598
+cache size	: 25344 KB
+physical id	: 1
+siblings	: 24
+core id		: 17
+cpu cores	: 12
+apicid		: 98
+initial apicid	: 98
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6802.26
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 21
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3572.458
+cache size	: 25344 KB
+physical id	: 1
+siblings	: 24
+core id		: 18
+cpu cores	: 12
+apicid		: 100
+initial apicid	: 100
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6802.26
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 22
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 4000.177
+cache size	: 25344 KB
+physical id	: 1
+siblings	: 24
+core id		: 19
+cpu cores	: 12
+apicid		: 102
+initial apicid	: 102
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6802.26
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 23
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3999.853
+cache size	: 25344 KB
+physical id	: 1
+siblings	: 24
+core id		: 20
+cpu cores	: 12
+apicid		: 104
+initial apicid	: 104
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6802.26
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 24
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3865.361
+cache size	: 25344 KB
+physical id	: 0
+siblings	: 24
+core id		: 0
+cpu cores	: 12
+apicid		: 1
+initial apicid	: 1
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6800.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 25
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3602.743
+cache size	: 25344 KB
+physical id	: 0
+siblings	: 24
+core id		: 3
+cpu cores	: 12
+apicid		: 7
+initial apicid	: 7
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6800.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 26
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3668.703
+cache size	: 25344 KB
+physical id	: 0
+siblings	: 24
+core id		: 4
+cpu cores	: 12
+apicid		: 9
+initial apicid	: 9
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6800.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 27
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3926.047
+cache size	: 25344 KB
+physical id	: 0
+siblings	: 24
+core id		: 5
+cpu cores	: 12
+apicid		: 11
+initial apicid	: 11
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6800.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 28
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3852.891
+cache size	: 25344 KB
+physical id	: 0
+siblings	: 24
+core id		: 6
+cpu cores	: 12
+apicid		: 13
+initial apicid	: 13
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6800.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 29
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3793.454
+cache size	: 25344 KB
+physical id	: 0
+siblings	: 24
+core id		: 7
+cpu cores	: 12
+apicid		: 15
+initial apicid	: 15
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6800.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 30
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3980.043
+cache size	: 25344 KB
+physical id	: 0
+siblings	: 24
+core id		: 16
+cpu cores	: 12
+apicid		: 33
+initial apicid	: 33
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6800.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 31
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3186.174
+cache size	: 25344 KB
+physical id	: 0
+siblings	: 24
+core id		: 18
+cpu cores	: 12
+apicid		: 37
+initial apicid	: 37
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6800.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 32
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3840.875
+cache size	: 25344 KB
+physical id	: 0
+siblings	: 24
+core id		: 19
+cpu cores	: 12
+apicid		: 39
+initial apicid	: 39
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6800.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 33
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3724.926
+cache size	: 25344 KB
+physical id	: 0
+siblings	: 24
+core id		: 20
+cpu cores	: 12
+apicid		: 41
+initial apicid	: 41
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6800.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 34
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3804.515
+cache size	: 25344 KB
+physical id	: 0
+siblings	: 24
+core id		: 21
+cpu cores	: 12
+apicid		: 43
+initial apicid	: 43
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6800.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 35
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3805.818
+cache size	: 25344 KB
+physical id	: 0
+siblings	: 24
+core id		: 22
+cpu cores	: 12
+apicid		: 45
+initial apicid	: 45
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6800.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 36
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3975.129
+cache size	: 25344 KB
+physical id	: 1
+siblings	: 24
+core id		: 0
+cpu cores	: 12
+apicid		: 65
+initial apicid	: 65
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6802.26
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 37
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3936.751
+cache size	: 25344 KB
+physical id	: 1
+siblings	: 24
+core id		: 1
+cpu cores	: 12
+apicid		: 67
+initial apicid	: 67
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6802.26
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 38
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3557.666
+cache size	: 25344 KB
+physical id	: 1
+siblings	: 24
+core id		: 2
+cpu cores	: 12
+apicid		: 69
+initial apicid	: 69
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6802.26
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 39
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3956.117
+cache size	: 25344 KB
+physical id	: 1
+siblings	: 24
+core id		: 3
+cpu cores	: 12
+apicid		: 71
+initial apicid	: 71
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6802.26
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 40
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3851.151
+cache size	: 25344 KB
+physical id	: 1
+siblings	: 24
+core id		: 4
+cpu cores	: 12
+apicid		: 73
+initial apicid	: 73
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6802.26
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 41
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3994.180
+cache size	: 25344 KB
+physical id	: 1
+siblings	: 24
+core id		: 8
+cpu cores	: 12
+apicid		: 81
+initial apicid	: 81
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6802.26
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 42
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3826.462
+cache size	: 25344 KB
+physical id	: 1
+siblings	: 24
+core id		: 9
+cpu cores	: 12
+apicid		: 83
+initial apicid	: 83
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6802.26
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 43
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3870.664
+cache size	: 25344 KB
+physical id	: 1
+siblings	: 24
+core id		: 11
+cpu cores	: 12
+apicid		: 87
+initial apicid	: 87
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6802.26
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 44
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3819.612
+cache size	: 25344 KB
+physical id	: 1
+siblings	: 24
+core id		: 17
+cpu cores	: 12
+apicid		: 99
+initial apicid	: 99
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6802.26
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 45
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3923.545
+cache size	: 25344 KB
+physical id	: 1
+siblings	: 24
+core id		: 18
+cpu cores	: 12
+apicid		: 101
+initial apicid	: 101
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6802.26
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 46
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 3999.952
+cache size	: 25344 KB
+physical id	: 1
+siblings	: 24
+core id		: 19
+cpu cores	: 12
+apicid		: 103
+initial apicid	: 103
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6802.26
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 47
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 85
+model name	: Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz
+stepping	: 4
+microcode	: 0x2006906
+cpu MHz		: 4004.072
+cache size	: 25344 KB
+physical id	: 1
+siblings	: 24
+core id		: 20
+cpu cores	: 12
+apicid		: 105
+initial apicid	: 105
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin ssbd mba ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke md_clear flush_l1d
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 6802.26
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+
+#---
+test,threads,load,PkgWatt,RAMWatt,PkgTmp
+[36mINFO[0m[0000] load_duration_before_measure: 5s, load: 0, threads: 48 
+[36mINFO[0m[0000] [stress-ng -l 0 -c 48 --cpu-method all]      
+stress-ng: info:  [11] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [11] dispatching hogs: 48 cpu
+[36mINFO[0m[0005] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0006] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0007] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0008] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0009] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0010] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0011] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0012] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0013] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0014] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0015] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0016] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0017] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0018] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0019] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0020] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0021] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0022] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0023] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0024] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0025] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0026] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0027] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0028] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0029] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0030] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0031] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0032] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0033] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0034] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0035] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0036] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0037] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0038] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0039] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0040] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0041] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0042] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0043] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0044] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0045] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0046] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0047] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0048] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0049] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0050] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0051] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0052] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0053] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0054] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0055] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0056] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0057] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0058] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0059] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0060] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0061] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0062] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0063] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0064] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+CPUStress,48,0,47.57,49.54,35.18
+[36mINFO[0m[0065] load_duration_before_measure: 5s, load: 10, threads: 48 
+[36mINFO[0m[0065] [stress-ng -l 10 -c 48 --cpu-method all]     
+stress-ng: info:  [121] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [121] dispatching hogs: 48 cpu
+[36mINFO[0m[0070] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0071] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0072] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0073] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0074] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0075] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0076] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0077] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0078] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0079] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0080] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0081] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0082] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0084] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0085] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0086] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0087] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0088] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0089] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0090] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0091] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0092] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0093] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0094] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0095] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0096] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0097] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0098] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0099] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0100] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0101] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0102] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0103] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0104] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0105] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0106] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0108] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0109] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0110] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0111] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0112] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0113] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0114] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0115] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0116] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0117] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0118] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0119] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0120] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0121] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0122] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0123] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0124] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0125] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0127] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0128] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0129] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0130] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0131] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0132] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+CPUStress,48,10,147.94,92.05,56.02
+[36mINFO[0m[0133] load_duration_before_measure: 5s, load: 20, threads: 48 
+[36mINFO[0m[0133] [stress-ng -l 20 -c 48 --cpu-method all]     
+stress-ng: info:  [230] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [230] dispatching hogs: 48 cpu
+[36mINFO[0m[0138] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0139] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0140] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0141] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0142] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0143] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0144] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0145] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0146] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0147] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0148] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0150] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0151] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0152] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0153] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0154] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0155] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0156] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0157] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0158] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0159] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0160] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0162] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0163] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0164] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0165] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0166] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0167] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0168] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0169] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0170] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0171] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0172] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0173] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0175] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0176] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0177] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0178] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0179] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0180] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0181] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0182] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0183] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0184] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0185] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0186] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0187] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0188] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0190] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0191] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0192] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0193] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0194] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0195] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0196] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0197] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0198] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0199] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0200] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0201] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+CPUStress,48,20,197.97,97.06,58.90
+[36mINFO[0m[0202] load_duration_before_measure: 5s, load: 30, threads: 48 
+[36mINFO[0m[0202] [stress-ng -l 30 -c 48 --cpu-method all]     
+stress-ng: info:  [339] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [339] dispatching hogs: 48 cpu
+[36mINFO[0m[0207] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0209] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0210] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0211] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0212] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0213] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0214] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0215] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0216] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0217] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0219] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0220] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0221] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0222] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0223] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0224] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0225] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0227] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0228] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0229] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0230] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0231] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0232] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0233] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0234] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0236] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0237] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0238] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0239] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0240] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0241] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0242] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0243] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0244] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0246] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0247] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0248] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0249] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0250] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0251] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0252] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0253] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0255] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0256] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0257] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0258] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0259] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0260] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0261] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0262] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0264] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0265] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0266] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0267] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0268] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0269] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0270] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0272] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0273] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0274] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+CPUStress,48,30,244.72,97.74,60.38
+[36mINFO[0m[0275] load_duration_before_measure: 5s, load: 40, threads: 48 
+[36mINFO[0m[0275] [stress-ng -l 40 -c 48 --cpu-method all]     
+stress-ng: info:  [448] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [448] dispatching hogs: 48 cpu
+[36mINFO[0m[0280] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0281] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0282] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0283] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0284] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0286] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0287] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0288] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0289] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0290] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0291] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0292] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0293] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0295] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0296] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0297] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0298] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0299] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0300] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0301] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0303] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0304] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0305] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0306] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0307] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0308] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0309] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0310] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0311] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0313] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0314] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0315] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0316] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0317] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0318] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0319] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0320] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0322] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0323] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0324] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0325] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0326] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0327] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0329] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0330] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0331] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0332] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0333] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0334] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0335] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0336] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0337] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0339] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0340] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0341] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0342] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0343] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0344] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0345] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0346] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+CPUStress,48,40,304.62,100.83,74.97
+[36mINFO[0m[0348] load_duration_before_measure: 5s, load: 50, threads: 48 
+[36mINFO[0m[0348] [stress-ng -l 50 -c 48 --cpu-method all]     
+stress-ng: info:  [557] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [557] dispatching hogs: 48 cpu
+[36mINFO[0m[0353] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0354] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0355] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0356] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0357] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0358] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0359] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0360] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0362] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0363] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0364] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0365] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0366] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0367] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0368] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0369] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0371] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0372] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0373] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0374] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0375] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0376] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0377] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0379] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0380] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0381] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0382] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0383] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0384] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0385] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0387] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0388] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0389] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0390] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0391] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0392] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0393] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0394] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0395] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0397] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0398] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0399] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0400] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0401] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0402] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0403] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0404] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0406] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0407] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0408] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0409] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0410] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0411] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0412] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0414] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0415] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0416] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0417] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0418] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0419] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+CPUStress,48,50,360.60,104.18,88.05
+[36mINFO[0m[0420] load_duration_before_measure: 5s, load: 60, threads: 48 
+[36mINFO[0m[0420] [stress-ng -l 60 -c 48 --cpu-method all]     
+stress-ng: info:  [666] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [666] dispatching hogs: 48 cpu
+[36mINFO[0m[0425] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0426] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0428] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0429] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0430] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0431] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0432] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0433] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0434] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0436] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0437] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0438] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0439] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0440] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0441] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0442] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0444] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0445] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0446] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0447] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0448] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0449] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0450] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0452] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0453] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0454] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0455] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0456] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0458] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0459] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0460] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0461] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0462] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0463] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0464] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0465] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0467] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0468] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0469] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0470] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0471] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0472] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0474] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0475] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0476] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0477] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0478] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0479] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0480] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0482] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0483] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0484] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0485] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0486] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0487] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0488] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0490] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0491] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0492] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0493] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+CPUStress,48,60,388.91,104.76,87.27
+[36mINFO[0m[0494] load_duration_before_measure: 5s, load: 70, threads: 48 
+[36mINFO[0m[0494] [stress-ng -l 70 -c 48 --cpu-method all]     
+stress-ng: info:  [778] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [778] dispatching hogs: 48 cpu
+[36mINFO[0m[0499] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0500] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0502] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0503] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0504] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0505] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0506] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0507] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0509] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0510] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0511] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0512] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0513] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0514] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0516] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0517] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0518] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0519] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0520] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0521] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0523] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0524] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0525] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0526] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0527] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0528] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0530] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0531] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0532] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0533] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0534] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0535] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0537] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0538] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0539] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0540] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0541] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0542] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0544] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0545] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0546] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0547] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0548] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0549] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0551] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0552] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0553] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0554] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0555] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0557] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0558] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0559] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0560] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0561] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0562] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0564] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0565] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0566] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0567] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0568] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+CPUStress,48,70,413.07,106.46,78.38
+[36mINFO[0m[0569] load_duration_before_measure: 5s, load: 80, threads: 48 
+[36mINFO[0m[0569] [stress-ng -l 80 -c 48 --cpu-method all]     
+stress-ng: info:  [887] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [887] dispatching hogs: 48 cpu
+[36mINFO[0m[0574] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0575] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0577] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0578] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0579] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0580] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0581] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0583] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0584] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0585] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0586] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0587] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0589] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0590] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0591] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0592] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0593] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0595] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0596] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0597] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0598] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0599] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0601] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0602] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0603] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0604] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0605] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0607] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0608] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0609] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0610] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0611] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0613] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0614] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0615] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0616] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0617] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0618] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0620] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0621] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0622] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0623] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0624] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0626] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0627] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0628] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0629] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0630] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0632] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0633] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0634] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0635] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0636] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0637] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0639] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0640] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0641] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0642] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0643] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0645] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+CPUStress,48,80,446.61,108.05,85.52
+[36mINFO[0m[0646] load_duration_before_measure: 5s, load: 90, threads: 48 
+[36mINFO[0m[0646] [stress-ng -l 90 -c 48 --cpu-method all]     
+stress-ng: info:  [997] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [997] dispatching hogs: 48 cpu
+[36mINFO[0m[0651] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0652] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0653] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0654] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0656] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0657] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0658] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0659] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0660] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0662] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0663] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0664] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0665] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0666] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0668] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0669] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0670] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0671] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0672] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0674] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0675] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0676] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0677] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0679] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0680] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0681] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0682] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0683] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0685] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0686] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0687] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0688] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0689] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0691] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0692] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0693] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0694] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0696] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0697] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0698] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0699] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0700] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0702] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0703] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0704] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0705] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0706] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0708] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0709] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0710] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0711] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0713] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0714] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0715] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0716] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0717] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0719] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0720] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0721] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0722] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+CPUStress,48,90,470.54,109.12,84.92
+[36mINFO[0m[0723] load_duration_before_measure: 5s, load: 100, threads: 48 
+[36mINFO[0m[0723] [stress-ng -l 100 -c 48 --cpu-method all]    
+stress-ng: info:  [1106] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [1106] dispatching hogs: 48 cpu
+[36mINFO[0m[0728] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0730] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0731] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0732] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0733] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0735] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0736] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0737] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0738] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0739] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0741] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0742] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0743] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0744] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0746] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0747] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0748] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0749] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0751] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0752] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0753] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0754] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0756] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0757] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0758] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0759] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0760] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0762] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0763] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0764] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0765] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0767] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0768] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0769] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0770] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0772] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0773] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0774] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0775] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0776] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0778] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0779] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0780] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0781] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0783] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0784] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0785] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0786] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0788] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0789] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0790] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0791] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0792] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0794] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0795] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0796] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0797] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0799] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0800] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0801] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+CPUStress,48,100,480.23,110.53,87.82
+[36mINFO[0m[0802] load_duration_before_measure: 5s, load: 100, threads: 48 
+[36mINFO[0m[0802] [stress-ng --ipsec-mb 48]                    
+stress-ng: info:  [1215] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [1215] dispatching hogs: 48 ipsec-mb
+stress-ng: info:  [1216] stress-ng-ipsec-mb: features: sse avx avx2 avx512
+[36mINFO[0m[0807] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0809] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0810] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0811] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0812] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0813] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0815] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0816] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0817] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0818] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0820] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0821] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0822] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0823] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0825] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0826] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0827] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0828] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0829] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0831] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0832] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0833] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0834] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0836] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0837] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0838] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0839] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0841] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0842] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0843] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0844] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0845] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0847] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0848] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0849] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0850] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0852] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0853] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0854] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0855] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0857] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0858] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0859] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0860] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0861] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0863] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0864] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0865] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0866] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0868] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0869] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0870] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0871] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0873] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0874] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0875] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0876] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0877] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0879] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0880] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+ipsec,48,100,438.04,108.58,85.83
+[36mINFO[0m[0881] load_duration_before_measure: 5s, load: 100, threads: 48 
+[36mINFO[0m[0881] [stress-ng --vm 48]                          
+stress-ng: info:  [1324] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [1324] dispatching hogs: 48 vm
+[36mINFO[0m[0886] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0887] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0889] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0890] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0891] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0892] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0894] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0895] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0896] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0897] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0899] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0900] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0901] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0902] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0903] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0905] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0906] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0907] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0908] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0910] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0911] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0912] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0913] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0915] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0916] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0917] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0918] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0920] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0921] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0922] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0923] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0925] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0926] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0927] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0928] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0929] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0931] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0932] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0933] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0934] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0936] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0937] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0938] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0939] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0941] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0942] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0943] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0944] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0946] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0947] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0948] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0949] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0951] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0952] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0953] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0954] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0955] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0957] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0958] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0959] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+VMStress,48,100,363.34,256.49,75.20
+[36mINFO[0m[0960] load_duration_before_measure: 5s, load: 100, threads: 48 
+[36mINFO[0m[0960] [stress-ng --cpu 48 --vm 48 --maximize]      
+stress-ng: info:  [1481] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [1481] dispatching hogs: 48 cpu, 48 vm
+[36mINFO[0m[0965] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0967] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0968] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0970] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0971] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0972] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0974] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0975] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0976] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0978] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0979] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0981] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0982] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0983] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0985] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0986] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0987] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0989] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0990] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0992] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0993] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0994] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0996] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0997] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[0999] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1000] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1001] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1003] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1004] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1005] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1007] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1008] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1010] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1011] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1012] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1014] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1015] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1017] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1018] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1019] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1021] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1022] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1023] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1025] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1026] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1028] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1029] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1030] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1032] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1033] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1035] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1036] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1037] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1039] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1040] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1042] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1043] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1044] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1046] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+[36mINFO[0m[1047] [turbostat -q -c package --num_iterations 1 --interval 1.000000 --show PkgWatt,RAMWatt,PkgTmp] 
+maximize,48,100,483.24,230.25,82.68
